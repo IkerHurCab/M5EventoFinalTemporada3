@@ -1,0 +1,5 @@
+﻿  EventoFinalM5.cpp
+F:\M5_ED\Visual Studio 2022\EventoFinalM5\EventoFinalM5\EventoFinalM5.cpp(97,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+F:\M5_ED\Visual Studio 2022\EventoFinalM5\EventoFinalM5\EventoFinalM5.cpp(300,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+F:\M5_ED\Visual Studio 2022\EventoFinalM5\EventoFinalM5\EventoFinalM5.cpp(814,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  EventoFinalM5.vcxproj -> F:\M5_ED\Visual Studio 2022\EventoFinalM5\x64\Debug\EventoFinalM5.exe
